@@ -1,7 +1,9 @@
 # Peepdf-Fix
-Fix For Peepdf
+Fix For Peepdf - pylibemu and pyv8
 
 Password - peepdf
+
+Usages
 
 Pip Version 0.4.2 
 
